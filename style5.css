@@ -1,0 +1,35 @@
+dropdown li{
+    position: relative;
+    list-style:none;
+}
+
+.submenu{
+    display:none;
+    position:absolute;
+    background: #eee
+}
+
+.dropdown li:hover .submenu{
+    display: block;
+}
+
+.mainmenu{
+    padding: 20px;
+.dropdown li{
+    position: relative;
+    list-style:none;
+}
+
+.submenu{
+    display:none;
+    position:absolute;
+    background: #eee
+}
+
+.dropdown li:hover .submenu{
+    display: block;
+}
+
+.mainmenu{
+    padding: 20px;
+}
